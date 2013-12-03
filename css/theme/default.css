@@ -171,6 +171,10 @@ color: #00FF00;
 color: #FF0000;
 }
 
+.reveal ul.colorized li.grey:before {
+color: grey;
+}
+
 .reveal table.feasibility {
   font-size: smaller;
   vertical-align: middle;
@@ -183,3 +187,4 @@ color: #FF0000;
   margin-left: auto;
   margin-right: auto;
 }
+
